@@ -1,5 +1,5 @@
-# Arty S7-50 GPIO Demo <!-- Replace this line with the project name -->
-Created for Vivado 2017.2
+# Arty S7-25 GPIO Demo
+Created for Vivado 2017.4
 
-[Link to the project wiki](https://reference.digilentinc.com/doku.php)
+[Link to the project wiki](https://reference.digilentinc.com/learn/programmable-logic/tutorials/arty-s7-general-io-demo/start)
 
